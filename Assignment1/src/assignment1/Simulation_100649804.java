@@ -4,7 +4,7 @@
  * and open the template in the editor.
  *
  * Name: Mohamed Abdi 
- * Student Number: 100-649-804
+ * Student Number: ***-***-***
  */
 
 
@@ -47,7 +47,6 @@ public class Simulation_100649804 {
             ChequingAccount acc = new ChequingAccount(accNum,accBalance,
                                                owner,overDraft);
             accList[arrElements] = acc;
-            
             arrElements++;
             return true;
         }
